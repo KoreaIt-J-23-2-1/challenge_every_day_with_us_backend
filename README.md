@@ -1,19 +1,18 @@
-<!---
 # challenge_with_us
 
 [🔗 Challenge_With_Us 바로가기](https://bokgungom-market.vercel.app/)
 
 ## 💪 프로젝트 소개
 
-- 💪 Challenge_With_Us 서비스는 운동을 즐기는 사람들을 위한 SNS입니다.
-- 🏋️ 운동과 관련한 상품들을 업로드하여 판매할 수 있습니다.
-- 🏞️ 상품을 등록하지 않아도 일상을 공유하며 즐거운 SNS 활동을 할 수 있습니다.
-- ✏️ 글과 사진과 함께 게시물을 작성하여 자신의 일상을 공유하고 운동 인증을 할 수도 있습니다.
-- ❤️ 다른 사용자를 팔로우하여 소식을 공유할 수 있고 댓글과 좋아요를 통해 소통할 수 있습니다.
+- 💪 Challenge_With_Us 함께 챌린지에 도전하고 성취하기 위한 웹 서비스 입니다.
+- 🏋️ 다양한 챌린지들을 만들고 인증할 수 있습니다.
+- 🏞️ 챌린지를 직접 만들지 않고 다른 사람이 만든 챌린지에 참여하며 인증을 진행할 수도 있습니다.
+- ✏️ 글과 사진을 함께 게시물에 작성하여 챌린지 인증을 공유할 수도 있습니다.
+- ❤️ 다른 사용자의 챌린지나 피드에 좋아요하거나 댓글을 통해 소통할 수 있습니다.
 
 <br>
 
-## 💪 프로젝트 개발 기간
+## 💪 프로젝트 개발 기간 -> ppt 내용으로 수정 예정
 
 ```mermaid
 gantt
@@ -26,7 +25,7 @@ gantt
 ```
 <br>
 
-## 🫂 팀 소개
+## 🫂 팀 소개 -> 로고로 변경할 예정
 
 <img src="https://github.com/nailedReact/bokgungom-market/blob/main/preview/15.gif" width="40%"/>
 
@@ -34,15 +33,14 @@ gantt
 |:-:|:-:|:-:|:-:|
 |<a href="https://github.com/sasha1107"><img src="https://avatars.githubusercontent.com/sasha1107" height=150 width=150></a>|<a href="https://github.com/SEMINSEMINSEMIN"><img src="https://avatars.githubusercontent.com/SEMINSEMINSEMIN" height=150 width=150></a>|<a href="https://github.com/sjkymy"><img src="https://avatars.githubusercontent.com/sjkymy" height=150 width=150></a>|<a href="https://github.com/hyejee0504"><img src="https://avatars.githubusercontent.com/hyejee0504" height=150 width=150></a>|
 
-- 멋쟁이사자처럼 프론트엔드 스쿨 3기 프로젝트 15조 `15조는 리액트를 찢오`입니다.
-- 이 프로젝트를 통해 팀원 모두 낯설었던 리액트를 찢어보자! 라는 의미에서 다음과 같은 팀명을 짓게 되었습니다.
-- 원본 밈인 ~~북극곰은 사람을 찢어~~에서 비롯하여 저희의 대표 캐릭터도 북극곰으로 지정했습니다. 🐻‍❄️
+- 코리아IT 부산 23-2기 프로젝트 1조 `강아지와 호랑이 세마리`입니다.
+- 호랑이 띠 셋과 개띠 하나라는 조합이 개성있어 보여 다음과 같은 팀명을 짓게 되었습니다.
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
 <br>
 
 
-## 🙋‍♀️ 역할 분담
+## 🙋‍♀️ 역할 분담 -> ppt 내용으로 수정 예정
 
 ### 🤖 박지영
 
@@ -87,58 +85,69 @@ gantt
 ## ⚙️ 개발 환경
 
 <table>
-      <thead align="center">
-        <tr>
-          <th colspan="2" style="text-align:center;"><span style="font-size:16px;">프론트엔드</span></th>
-          <th style="text-align:center;"><span style="font-size:16px">백엔드</span></th>
-          <th style="text-align:center;"><span style="font-size:16px">배포</span></th>
-          <th colspan="2" style="text-align:center;"><span style="font-size:16px;">디자인</span></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center" style="text-align:center;">
-            <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1579667701/noticon/basd2y5bygpkqjiixuqy.png" alt="React" height="50" /></a>
-            <br>
-            <code>React</code>
-          </td>
-          <td align="center" style="text-align:center; margin: 0 auto;">
-            <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
-            <br>
-            <code>styled-components</code>
-          </td>
+<thead align="center">
+<tr>
+  <th colspan="2" style="text-align:center;"><span style="font-size:16px;">프론트엔드</span></th>
+  <th style="text-align:center;"><span style="font-size:16px">백엔드</span></th>
+  <th style="text-align:center;"><span style="font-size:16px">배포</span></th>
+  <th colspan="2" style="text-align:center;"><span style="font-size:16px;">디자인</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td align="center" style="text-align:center;">
+    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1579667701/noticon/basd2y5bygpkqjiixuqy.png" alt="React" height="50" /></a>
+    <br>
+    <code>React</code>
+  </td>
+  <td align="center" style="text-align:center; margin: 0 auto;">
+    <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
+    <br>
+    <code>styled-components</code>
+  </td>
 
 
-          <td align="center" style="text-align:center;">부트캠프에서 제공된<br>API 사용</td>
-          <td align="center" style="text-align:center;">
-            <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1679312641/noticon/rx8rni4npifrbo9ckxmt.png" alt="Styled Components" height="50" /></a>
-            <br>
-            <code>Vercel</code>
-          </td>
-          <td align="center" style="text-align:center; margin: 0 auto;">
-            <a href="https://www.adobe.com/kr/products/photoshop/landpa.html?gclid=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB&sdid=TBJRLR9V&mv=search&ef_id=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB:G:s&s_kwcid=AL!3085!3!460585117877!e!!g!!photoshop!97967719!4837432399" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602172134/noticon/owhrsm7fwznd39eli3d6.png" alt="Adobe Photoshop" height="50" /></a>
-            <br>
-            <code>Adobe Photoshop</code>
-          </td>
-          <td align="center" style="text-align:center; margin: 0 auto;">
-            <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640982247/noticon/tpvr26zp02angin4t0jv.png" alt="Styled Components" height="50" /></a>
-            <br>
-            <code>Figma</code>
-          </td>
-        </tr>
-      </tbody>
+  <td align="center" style="text-align:center;"><a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/11cf56d6-3703-47e2-8e15-4933d42de011" alt="Spring Boot" height="50" /></a>
+    <br>
+    <code>Spring Boot</code></td>
+  <td align="center" style="text-align:center;">
+    <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1679312641/noticon/rx8rni4npifrbo9ckxmt.png" alt="Styled Components" height="50" /></a>
+    <br>
+    <code>Vercel</code>
+  </td>
+  <td align="center" style="text-align:center; margin: 0 auto;">
+    <a href="https://www.adobe.com/kr/products/photoshop/landpa.html?gclid=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB&sdid=TBJRLR9V&mv=search&ef_id=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB:G:s&s_kwcid=AL!3085!3!460585117877!e!!g!!photoshop!97967719!4837432399" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602172134/noticon/owhrsm7fwznd39eli3d6.png" alt="Adobe Photoshop" height="50" /></a>
+    <br>
+    <code>Adobe Photoshop</code>
+  </td>
+  <td align="center" style="text-align:center; margin: 0 auto;">
+    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640982247/noticon/tpvr26zp02angin4t0jv.png" alt="Styled Components" height="50" /></a>
+    <br>
+    <code>Figma</code>
+  </td>
+</tr>
+</tbody>
 </table>
 <br>
 
-### ⛓️ node modules
+### ⛓️ pom.xml
 |모듈명|용도|
 |-|-|
-|react-router-dom|페이지 라우팅을 위해 사용|
-|axios|서버와 통신을 위해 사용|
-|react-intersection-observer| 무한 스크롤 구현을 위해 사용 |
-|styled-reset| 스타일 구현의 편의를 위해 사용 |
-|uuid| 컴포넌트 리스트의 유니크한 key 생성을 위해 사용 |
-|browser-image-compression| 업로딩 이미지 압축을 위해 사용 |
+|lombok| 어노테이션으로 코드 자동 생성을 위해 사용 |
+|jjwt-api / jjwt-impl / jjwt-jackson| JWT 활용을 위해 사용 |
+|spring-boot-starter-mail | 이메일 인증을 위해 사용 |
+|spring-boot-starter-oauth2-client | oauth2 인증을 위해 사용 |
+|spring-boot-starter-web | spring web 프로젝트에 필수적인 모듈 |
+|mysql-connector-java | mysql 연결을 위해 사용 |
+|spring-boot-starter-security | 스프링 시큐리티를 적용하기 위해 사용 |
+|spring-boot-starter-aop | 스프링 aop를 적용하기 위해 사용 |
+|mybatis-spring-boot-starter | mybatis를 적용하기 위해 사용 |
+|spring-boot-starter-validation | 입력 값 검증을 위해 사용 |
+|spring-boot-devtools | 빠른 재시작을 위해 사용 |
+
+
+
+
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
 <br>
@@ -157,11 +166,11 @@ gantt
 
 - 코드 리뷰 & 승인은 생산성을 위해 리뷰어를 1명으로 지정하되, 팀원들이 코드 스타일을 공유하며 서로 잘 이해할 수 있도록 순서를 정해 돌아가며 골고루 리뷰하도록 했습니다.
 
-- 컨펌 순서
-    - **성준** : `수현` → `세민` → `혜지`
-    - **수현** : `성준` → `혜지` → `세민`
-    - **세민** : `혜지` → `수현` → `성준`
-    - **혜지** : `세민` → `성준` → `수현`
+- 컨펌 담당
+    - **지영** : `혜성`
+    - **혜성** : `지영`
+    - **영훈** : `근해`
+    - **근해** : `영훈`
 
 6. PR이 merge되어 close 되면 해당 이슈는 자동으로 Done상태로 변경됩니다.
 
@@ -288,6 +297,28 @@ gantt
 ## 페이지 미리보기
 
 <table width="100%">
+<tr>
+    <th colspan="2">메인 페이지</th>
+</tr>
+
+<tr align="center">
+    <td valign="top" width="50%">
+    메인(출석체크 🖥️)
+    </td>
+    <td valign="top" width="50%">
+    메인(출석체크 📱)
+    </td>
+</tr>
+
+<tr>
+    <td valign="top" width="50%">
+        <img src=https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/661019a5-1a94-4ee4-b5a3-8f638b437b97 />
+    </td>
+    <td valign="top" width="50%">
+        <img src=https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/661019a5-1a94-4ee4-b5a3-8f638b437b97 />
+    </td>
+</tr>
+    
 <tr>
     <th colspan="2">스플래시 페이지</th>
 </tr>
@@ -584,20 +615,19 @@ gantt
 
 - 레포지토리 클론
 ```
-git clone https://github.com/nailedReact/bokgungom-market.git
+git clone https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend
 ```
 - 프로젝트 소스 코드 폴더로 이동
 ```
 cd my-app
 ```
-- 필요한 모듈 설치
+- maven 빌드 진행
 ```
-npm install
+./mvnw clean package -Dtestskip
 ```
-- 로컬 환경에서 리액트 앱을 실행
+- 백그라운드에서 실행
 ```
-npm start
+nohup java -jar ~.jar &
 ```
-
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
