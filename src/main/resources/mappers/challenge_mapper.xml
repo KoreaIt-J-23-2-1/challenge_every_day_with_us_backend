@@ -131,8 +131,8 @@
                     and ct.is_deadline = 1
                 </when>
                 <otherwise>
-                    and ct.is_hidden = 0
-                    and ct.is_deadline = 0
+                    and (ct.is_hidden = 0
+                    and ct.is_deadline = 0)
                 </otherwise>
             </choose>
             <choose>
@@ -351,7 +351,7 @@
     </update>
 
     <update id="challengeHidden" statementType="CALLABLE">
-        call p_update_and_delete_challenge_data(#{challengeId});
+        {call p_update_and_delete_challenge_data(#{challengeId})}
     </update>
 
     <delete id="cancelLike" parameterType="com.dogtiger.challus.entity.Challenge">
