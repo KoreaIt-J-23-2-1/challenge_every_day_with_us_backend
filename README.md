@@ -25,7 +25,7 @@ gantt
 ```
 <br>
 
-## 🫂 팀 소개 -> 로고로 변경할 예정
+## 🫂 팀 소개
 
 <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/bee42c18-a309-4307-88c2-ccb32e490b6c" width="40%"/>
 
