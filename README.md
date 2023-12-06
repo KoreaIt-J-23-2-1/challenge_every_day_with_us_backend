@@ -1,19 +1,18 @@
-<!---
 # challenge_with_us
 
 [🔗 Challenge_With_Us 바로가기](https://bokgungom-market.vercel.app/)
 
 ## 💪 프로젝트 소개
 
-- 💪 Challenge_With_Us 서비스는 운동을 즐기는 사람들을 위한 SNS입니다.
-- 🏋️ 운동과 관련한 상품들을 업로드하여 판매할 수 있습니다.
-- 🏞️ 상품을 등록하지 않아도 일상을 공유하며 즐거운 SNS 활동을 할 수 있습니다.
-- ✏️ 글과 사진과 함께 게시물을 작성하여 자신의 일상을 공유하고 운동 인증을 할 수도 있습니다.
-- ❤️ 다른 사용자를 팔로우하여 소식을 공유할 수 있고 댓글과 좋아요를 통해 소통할 수 있습니다.
+- 💪 Challenge_With_Us 함께 챌린지에 도전하고 성취하기 위한 웹 서비스 입니다.
+- 🏋️ 다양한 챌린지들을 만들고 인증할 수 있습니다.
+- 🏞️ 챌린지를 직접 만들지 않고 다른 사람이 만든 챌린지에 참여하며 인증을 진행할 수도 있습니다.
+- ✏️ 글과 사진을 함께 게시물에 작성하여 챌린지 인증을 공유할 수도 있습니다.
+- ❤️ 다른 사용자의 챌린지나 피드에 좋아요하거나 댓글을 통해 소통할 수 있습니다.
 
 <br>
 
-## 💪 프로젝트 개발 기간
+## 💪 프로젝트 개발 기간 -> ppt 내용으로 수정 예정
 
 ```mermaid
 gantt
@@ -26,7 +25,7 @@ gantt
 ```
 <br>
 
-## 🫂 팀 소개
+## 🫂 팀 소개 -> 로고로 변경할 예정
 
 <img src="https://github.com/nailedReact/bokgungom-market/blob/main/preview/15.gif" width="40%"/>
 
@@ -34,15 +33,14 @@ gantt
 |:-:|:-:|:-:|:-:|
 |<a href="https://github.com/sasha1107"><img src="https://avatars.githubusercontent.com/sasha1107" height=150 width=150></a>|<a href="https://github.com/SEMINSEMINSEMIN"><img src="https://avatars.githubusercontent.com/SEMINSEMINSEMIN" height=150 width=150></a>|<a href="https://github.com/sjkymy"><img src="https://avatars.githubusercontent.com/sjkymy" height=150 width=150></a>|<a href="https://github.com/hyejee0504"><img src="https://avatars.githubusercontent.com/hyejee0504" height=150 width=150></a>|
 
-- 멋쟁이사자처럼 프론트엔드 스쿨 3기 프로젝트 15조 `15조는 리액트를 찢오`입니다.
-- 이 프로젝트를 통해 팀원 모두 낯설었던 리액트를 찢어보자! 라는 의미에서 다음과 같은 팀명을 짓게 되었습니다.
-- 원본 밈인 ~~북극곰은 사람을 찢어~~에서 비롯하여 저희의 대표 캐릭터도 북극곰으로 지정했습니다. 🐻‍❄️
+- 코리아IT 부산 23-2기 프로젝트 1조 `강아지와 호랑이 세마리`입니다.
+- 호랑이 띠 셋과 개띠 하나라는 조합이 개성있어 보여 다음과 같은 팀명을 짓게 되었습니다.
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
 <br>
 
 
-## 🙋‍♀️ 역할 분담
+## 🙋‍♀️ 역할 분담 -> ppt 내용으로 수정 예정
 
 ### 🤖 박지영
 
@@ -87,58 +85,69 @@ gantt
 ## ⚙️ 개발 환경
 
 <table>
-      <thead align="center">
-        <tr>
-          <th colspan="2" style="text-align:center;"><span style="font-size:16px;">프론트엔드</span></th>
-          <th style="text-align:center;"><span style="font-size:16px">백엔드</span></th>
-          <th style="text-align:center;"><span style="font-size:16px">배포</span></th>
-          <th colspan="2" style="text-align:center;"><span style="font-size:16px;">디자인</span></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td align="center" style="text-align:center;">
-            <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1579667701/noticon/basd2y5bygpkqjiixuqy.png" alt="React" height="50" /></a>
-            <br>
-            <code>React</code>
-          </td>
-          <td align="center" style="text-align:center; margin: 0 auto;">
-            <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
-            <br>
-            <code>styled-components</code>
-          </td>
+<thead align="center">
+<tr>
+  <th colspan="2" style="text-align:center;"><span style="font-size:16px;">프론트엔드</span></th>
+  <th style="text-align:center;"><span style="font-size:16px">백엔드</span></th>
+  <th style="text-align:center;"><span style="font-size:16px">배포</span></th>
+  <th colspan="2" style="text-align:center;"><span style="font-size:16px;">디자인</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td align="center" style="text-align:center;">
+    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1579667701/noticon/basd2y5bygpkqjiixuqy.png" alt="React" height="50" /></a>
+    <br>
+    <code>React</code>
+  </td>
+  <td align="center" style="text-align:center; margin: 0 auto;">
+    <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
+    <br>
+    <code>styled-components</code>
+  </td>
 
 
-          <td align="center" style="text-align:center;">부트캠프에서 제공된<br>API 사용</td>
-          <td align="center" style="text-align:center;">
-            <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1679312641/noticon/rx8rni4npifrbo9ckxmt.png" alt="Styled Components" height="50" /></a>
-            <br>
-            <code>Vercel</code>
-          </td>
-          <td align="center" style="text-align:center; margin: 0 auto;">
-            <a href="https://www.adobe.com/kr/products/photoshop/landpa.html?gclid=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB&sdid=TBJRLR9V&mv=search&ef_id=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB:G:s&s_kwcid=AL!3085!3!460585117877!e!!g!!photoshop!97967719!4837432399" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602172134/noticon/owhrsm7fwznd39eli3d6.png" alt="Adobe Photoshop" height="50" /></a>
-            <br>
-            <code>Adobe Photoshop</code>
-          </td>
-          <td align="center" style="text-align:center; margin: 0 auto;">
-            <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640982247/noticon/tpvr26zp02angin4t0jv.png" alt="Styled Components" height="50" /></a>
-            <br>
-            <code>Figma</code>
-          </td>
-        </tr>
-      </tbody>
+  <td align="center" style="text-align:center;"><a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/11cf56d6-3703-47e2-8e15-4933d42de011" alt="Spring Boot" height="50" /></a>
+    <br>
+    <code>Spring Boot</code></td>
+  <td align="center" style="text-align:center;">
+    <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1679312641/noticon/rx8rni4npifrbo9ckxmt.png" alt="Styled Components" height="50" /></a>
+    <br>
+    <code>Vercel</code>
+  </td>
+  <td align="center" style="text-align:center; margin: 0 auto;">
+    <a href="https://www.adobe.com/kr/products/photoshop/landpa.html?gclid=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB&sdid=TBJRLR9V&mv=search&ef_id=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB:G:s&s_kwcid=AL!3085!3!460585117877!e!!g!!photoshop!97967719!4837432399" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602172134/noticon/owhrsm7fwznd39eli3d6.png" alt="Adobe Photoshop" height="50" /></a>
+    <br>
+    <code>Adobe Photoshop</code>
+  </td>
+  <td align="center" style="text-align:center; margin: 0 auto;">
+    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640982247/noticon/tpvr26zp02angin4t0jv.png" alt="Styled Components" height="50" /></a>
+    <br>
+    <code>Figma</code>
+  </td>
+</tr>
+</tbody>
 </table>
 <br>
 
-### ⛓️ node modules
+### ⛓️ pom.xml
 |모듈명|용도|
 |-|-|
-|react-router-dom|페이지 라우팅을 위해 사용|
-|axios|서버와 통신을 위해 사용|
-|react-intersection-observer| 무한 스크롤 구현을 위해 사용 |
-|styled-reset| 스타일 구현의 편의를 위해 사용 |
-|uuid| 컴포넌트 리스트의 유니크한 key 생성을 위해 사용 |
-|browser-image-compression| 업로딩 이미지 압축을 위해 사용 |
+|lombok| 어노테이션으로 코드 자동 생성을 위해 사용 |
+|jjwt-api / jjwt-impl / jjwt-jackson| JWT 활용을 위해 사용 |
+|spring-boot-starter-mail | 이메일 인증을 위해 사용 |
+|spring-boot-starter-oauth2-client | oauth2 인증을 위해 사용 |
+|spring-boot-starter-web | spring web 프로젝트에 필수적인 모듈 |
+|mysql-connector-java | mysql 연결을 위해 사용 |
+|spring-boot-starter-security | 스프링 시큐리티를 적용하기 위해 사용 |
+|spring-boot-starter-aop | 스프링 aop를 적용하기 위해 사용 |
+|mybatis-spring-boot-starter | mybatis를 적용하기 위해 사용 |
+|spring-boot-starter-validation | 입력 값 검증을 위해 사용 |
+|spring-boot-devtools | 빠른 재시작을 위해 사용 |
+
+
+
+
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
 <br>
@@ -157,11 +166,11 @@ gantt
 
 - 코드 리뷰 & 승인은 생산성을 위해 리뷰어를 1명으로 지정하되, 팀원들이 코드 스타일을 공유하며 서로 잘 이해할 수 있도록 순서를 정해 돌아가며 골고루 리뷰하도록 했습니다.
 
-- 컨펌 순서
-    - **성준** : `수현` → `세민` → `혜지`
-    - **수현** : `성준` → `혜지` → `세민`
-    - **세민** : `혜지` → `수현` → `성준`
-    - **혜지** : `세민` → `성준` → `수현`
+- 컨펌 담당
+    - **지영** : `혜성`
+    - **혜성** : `지영`
+    - **영훈** : `근해`
+    - **근해** : `영훈`
 
 6. PR이 merge되어 close 되면 해당 이슈는 자동으로 Done상태로 변경됩니다.
 
@@ -212,74 +221,101 @@ gantt
 리드미에는 간략히 작성하고, 자세한 컨벤션은 각각의 타이틀에 링크된 깃허브 위키에 적어두었습니다.
 
 
-### [🔗 커밋 컨벤션](https://github.com/nailedReact/bokgungom-market/wiki/%F0%9F%93%A8-%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98)
+### [🔗 커밋 컨벤션](https://www.notion.so/Git-Commit-Message-Convention-569511dc005141dd80a03a43bdb1fc7d)
 
-- 다양한 사례를 참고하여 프로젝트에서 주로 쓰일 것 같은 커밋 유형을 간추려 컨벤션으로 지정했습니다.
+- 깃 커밋 컨벤션을 참고하여 회의를 통해 프로젝트에서 사용할 컨벤션을 지정했습니다.
 
     ```
     1. 커밋 유형 지정
-        - 커밋 유형은 영어로 작성하며, 첫 글자를 대문자로 합니다
+        - 커밋 유형은 영어 대문자로 작성하기
         - 커밋 유형
-        - Feat : 새로운 기능, 특징 추가
-        - Fix : 수정, 버그 수정
-        - Docs : 문서에 관련된 내용, 문서 수정
-        - Style : 스타일링
-        - Refactor : 리팩토링
-        - Test : 테스트 코드 수정, 누락된 테스트를 추가할 때, 리팩토링 테스트 추가
-        - Chore : 빌드 업무 수정, 패키지 매니저 수정
+        - Feat : 새로운 기능 추가
+        - Fix : 버그 수정
+        - Docs : 문서 수정
+        - Style : 코드 formatting, 세미콜론 누락, 코드 자체의 변경이 없는 경우
+        - Refactor : 코드 리팩토링
+        - Test : 테스트 코드, 리팩토링 테스트 코드 추가
+        - Chore : 패키지 매니저 수정, 그 외 기타 수정 ex) .gitignore
+        - Design : CSS 등 사용자 UI 디자인 변경
+        - Comment : 필요한 주석 추가 및 변경
+        - Rename : 파일 또는 폴더 명을 수정하거나 옮기는 작업만인 경우
+        - Remove : 파일을 삭제하는 작업만 수행한 경우
+        - !BREAKING CHANGE : 커다란 API 변경의 경우
+        - !HOTFIX : 급하게 치명적인 버그를 고쳐야 하는 경우
 
-    🧾 2. 커밋 메시지는 제목 & 본문으로 구성합니다.
+    🧾 2. 제목과 본문을 빈행으로 분리
+            - 커밋 유형 이후 제목과 본문은 한글로 작성하여 내용이 잘 전달될 수 있도록 할 것
+            - 본문에는 변경한 내용과 이유 설명 (어떻게보다는 무엇 & 왜를 설명)
 
-        git commit -m "Feat: 로그인 기능 구현 #13 //제목
-            - 로그인 유효성 검사 //본문
-            - 로그인 정보 서버로 전송" //본문
+    #️⃣ 3. 제목 첫 글자는 대문자로, 끝에는 . 금지 
 
-    #️⃣ 3. 커밋메시지의 제목 끝에는 이슈 번호를 달아 이슈와 연결해줍니다.
+    ↩️ 4. 제목은 영문 기준 50자 이내로 할 것
 
-        git commit -m "Feat: 로그인 기능 구현 #13"
+    ⏺️ 5. 자신의 코드가 직관적으로 바로 파악할 수 있다고 생각하지 말자
 
-    ↩️ 4. 커밋메시지의 제목과 본문은 빈 행으로 분리합니다.
-        - 본문에는 변경한 내용과 이유를 설명합니다.
-        - 어떻게 보다는 무엇 & 왜를 설명합니다.
-        - 제목과 본문은 한글로 작성하여 내용이 잘 전달될 수 있도록 합니다.
-
-    ⏺️ 5. 여러가지 항목이 있다면 글머리 기호를 통해 가독성을 높입니다.
-
-    👆 6. 한 커밋에는 한 가지 문제만 담습니다.
+    👆 6. 여러가지 항목이 있다면 글머리 기호를 통해 가독성 높이기
     ```
 
 <br>
 
-### [🔗 코드 컨벤션](https://github.com/nailedReact/bokgungom-market/wiki/%E2%8C%A8%EF%B8%8F-%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)
-- 리액트 코딩에 주로 쓰이는 컨벤션을 참고하여 저희 조만의 코드 컨벤션을 만들었습니다.
-- 문자열 처리 시 쌍따옴표/홑따옴표의 사용, 혹은 문장 끝 세미콜론의 사용여부와 같은 개인적 취향이 반영될 수 있는 항목들의 경우에는 사전 설문을 통해 다수결에 따라 지정했습니다. 
+### [🔗 코드 컨벤션](https://www.notion.so/Code-Convention-8ee36b86139d40a6b13cfb2693567fa1)
+- 자바 코딩 컨벤션을 참고하여 회의를 진행해 저희 조만의 코드 컨벤션을 결정 했습니다.
+- 코드 작성의 편의성을 고려하여 혼동이 없을 것 같다고 생각되는 컨벤션은 포함 시키지 않도록 했습니다.
 
     ```
-    🛼 컴포넌트로 분리된 파일은 PascalCase으로 작성합니다.
+    🛼 문자열을 처리할 때는 쌍따옴표를 사용하도록 합니다. 
 
-    🐫 컴포넌트가 아닌 파일, 함수명, 변수명은 camelCase로 작성합니다.
+    🐫 문장이 종료될 때는 세미콜론을 붙여줍니다. 
 
-    💄 다른 스타일 시트 파일(Styled-components)은, 스타일 시트 적용할 파일명 .style.js를 붙여주고, 앞글자는 소문자로 합니다. (확장자는 .js)
+    💄 함수명, 변수명은 카멜케이스로 작성합니다. 
 
-    🐫 함수명, 변수명은 camelCase로 작성합니다.
+    🐫 가독성을 위해 한 줄에 하나의 문장만 작성합니다. 
 
-    ❓ 만약 변수에 할당되는 값이 boolean인 경우에는 is를 접두사로 붙입니다.
+    ❓ 주석은 설명하려는 구문에 맞춰 들여쓰기 합니다.
 
-    🔠 상수는 대문자로만 작성합니다.
+    🔠 연산자 사이에는 공백을 추가하여 가독성을 높입니다. 
 
-    🔢 컴포넌트 파일 내 import 순서는 모듈 → 컴포넌트 → 스타일컴포넌트 순으로 합니다.
+    🔢 콤마 다음에 값이 올 경우 공백을 추가하여 가독성을 높입니다.
 
-    💬 문자열을 처리할 때는 쌍따옴표를 사용하도록 합니다.
+    💬 생성자 함수명의 맨 앞글자는 대문자로 합니다. 
 
-    🔚 문장이 종료될 때는 세미콜론을 붙여줍니다.
+    🔚 var는 절대 사용하지 않는다. (const를 let 보다 위에 선언한다)
 
-    👆 가독성을 위해 한 줄에 하나의 문장만 작성합니다.
+    👆 const와 let은 사용 시점에 선언 및 할당을 한다. (함수는 변수 선언문 다음에 오도록한다.)
 
-    ✏️ 주석은 설명하려는 구문에 맞춰 들여쓰기 합니다.
+    ✏️ 외부 모듈과 내부 모듈을 구분하여 사용한다.
 
-    🧮 연산자 사이에는 공백을 추가하여 가독성을 높입니다.
+    🧮 배열과 객체는 반드시 리터럴로 선언한다. (new 사용 X)
 
-    📠 콤마 다음에 값이 올 경우 공백을 추가하여 가독성을 높입니다.
+    📠 배열 복사 시 반복문을 사용하지 않는다.
+    
+    😎 배열의 시작 괄호 안에 요소가 줄 바꿈으로 시작되었다면 끝 괄호 이전에도 일관된 줄 바꿈 해야한다. (일관되게 모두 줄 바꿈을 해주어야 한다.)
+    
+    🧶 객체의 프로퍼티가 1개인 경우에만 한 줄 정의를 허용하며, 2개 이상일 경우에는 개행을 강제한다. (객체 리터럴 정의 시 콜론 앞은 공백을 허용하지 않음 콜론 뒤는 항상 공백을 강제)
+    
+    🧂 메서드 문법 사용 시 메서드 사이에 개행을 추가한다.
+
+    🌭 화살표 함수의 파라미터가 하나이면 괄호를 생략한다.
+
+    🍳 변수 등을 조합해서 문자열을 생성하는 경우 템플릿 문자열을 이용한다.
+
+    🧇 변수 등을 조합해서 문자열을 생성하는 경우 템플릿 문자열을 이용한다.
+
+    🥞 wildcard import는 사용하지 않는다. (import문으로부터 직접 export하지 않는다.)
+
+    🥖 한 줄짜리 블록일 경우라도 {}를 생략하지 않으며 명확히 줄 바꿈 하여 사용한다.
+
+    🥯 switch-case 사용 시 첫 번째 case문을 제외하고 case문 사용 이전에 개행한다.
+
+    🥐 삼중 등호 연산자인 ===, !==만 사용한다.
+
+    🚐 반복문 사용은 일반화된 순회 메서드 사용을 권장한다.
+
+    🚑 람다함수 안에서 밖에 있는 변수를 사용하지 말라
+
+    🚚 코드 블럭 주석 처리를 위해서는 한 줄 주석을 사용한다. 여러 줄 주석을 작성할 때는 *의 들여쓰기를 맞춘다. 주석의 첫 줄과 마지막 줄은 비워둠
+
+    💫 시작 괄호 바로 다음과 끝 괄호 바로 이전에 공백이 있으면 안 된다.
     ```
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
@@ -288,6 +324,28 @@ gantt
 ## 페이지 미리보기
 
 <table width="100%">
+<tr>
+    <th colspan="2">메인 페이지</th>
+</tr>
+
+<tr align="center">
+    <td valign="top" width="50%">
+    메인(출석체크 🖥️)
+    </td>
+    <td valign="top" width="50%">
+    메인(출석체크 📱)
+    </td>
+</tr>
+
+<tr>
+    <td valign="top" width="50%">
+        <img src=https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/661019a5-1a94-4ee4-b5a3-8f638b437b97 />
+    </td>
+    <td valign="top" width="50%">
+        <img src=https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/661019a5-1a94-4ee4-b5a3-8f638b437b97 />
+    </td>
+</tr>
+    
 <tr>
     <th colspan="2">스플래시 페이지</th>
 </tr>
@@ -584,20 +642,19 @@ gantt
 
 - 레포지토리 클론
 ```
-git clone https://github.com/nailedReact/bokgungom-market.git
+git clone https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend
 ```
 - 프로젝트 소스 코드 폴더로 이동
 ```
 cd my-app
 ```
-- 필요한 모듈 설치
+- maven 빌드 진행
 ```
-npm install
+./mvnw clean package -Dtestskip
 ```
-- 로컬 환경에서 리액트 앱을 실행
+- 백그라운드에서 실행
 ```
-npm start
+nohup java -jar ~.jar &
 ```
-
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
