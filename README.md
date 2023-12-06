@@ -341,320 +341,66 @@ gantt
 
 ## 페이지 미리보기
 
-<table width="100%">
-<tr>
-    <th colspan="2">메인 페이지</th>
-</tr>
+<div align="center">
+    <div>
+        <b>회원가입</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/732a6b84-af67-43d2-8c19-e88013716439" />
+    </p>
+    <br>
+</div>
 
-<tr align="center">
-    <td valign="top" width="50%">
-    메인(출석체크 🖥️)
-    </td>
-    <td valign="top" width="50%">
-    메인(출석체크 📱)
-    </td>
-</tr>
+<div align="center">
+    <div>
+        <b>일반User 로그인</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/1f8204d7-60c6-47aa-bc30-c533c9c8328e" width="30%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/4b81a620-1076-4b81-a96e-ed74b3a06bc6" width="30%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/ac1053a2-7fab-4322-8241-8838236b4583" width="30%" />
+    </p>
+    <br>
+</div>
 
-<tr>
-    <td valign="top" width="50%">
-        <img src=https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/661019a5-1a94-4ee4-b5a3-8f638b437b97 />
-    </td>
-    <td valign="top" width="50%">
-        <img src=https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/661019a5-1a94-4ee4-b5a3-8f638b437b97 />
-    </td>
-</tr>
-    
-<tr>
-    <th colspan="2">스플래시 페이지</th>
-</tr>
+<div align="center">
+    <div>
+        <b>관리자 로그인</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/2e8e2200-9b7a-4d92-9240-277dab2a53d2" />
+    </p>
+    <br>
+</div>
 
-<tr align="center">
-    <td valign="top" width="66%">
-    스플래시(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    스플래시(모바일 📱)
-    </td>
-</tr>
+<div align="center">
+    <div>
+        <b>일반User 마이페이지</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/f4a6097b-d551-44c9-b497-894ddd01e5ce" width="30%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/46e1e5d3-5ea6-4ae5-9707-c6306dd8357e" width="30%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/038f7796-8139-4c01-b23b-9a7fc398c4f7" width="30%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/982876b9-fff5-4404-be6b-b4870be5aacd" width="30%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/9b91aebb-95bb-42e8-ba53-a7c2deb5ab2a" width="30%" />
+    </p>
+    <br>
+</div>
 
-<tr>
-    <td valign="top" width="75%">
-    <img src=https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/661019a5-1a94-4ee4-b5a3-8f638b437b97 />
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EC%8A%A4%ED%94%8C%EB%9E%98%EC%8B%9C-%ED%8E%98%EC%9D%B4%EC%A7%80"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%EC%8A%A4%ED%94%8C%EB%9E%98%EC%8B%9C_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-<tr>
-    <th colspan="2">회원가입 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    회원가입(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    회원가입(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%EC%8A%A4%ED%94%8C%EB%9E%98%EC%8B%9C_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-<tr>
-    <th colspan="2">로그인 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    로그인(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    로그인(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EB%A1%9C%EA%B7%B8%EC%9D%B8"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%EB%A1%9C%EA%B7%B8%EC%9D%B8_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EB%A1%9C%EA%B7%B8%EC%9D%B8"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%EB%A1%9C%EA%B7%B8%EC%9D%B8_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-<tr>
-    <th colspan="2">홈 피드 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    홈 피드(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    홈 피드(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%ED%99%88-%ED%94%BC%EB%93%9C"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%ED%94%BC%EB%93%9C_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%ED%99%88-%ED%94%BC%EB%93%9C"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%ED%94%BC%EB%93%9C_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
+<div align="center">
+    <div>
+        <b>관리자 페이지</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/a78ddf8d-cdfc-4272-bd20-4160eb046886" width="45%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/2e0dedc2-e6b8-48f4-b98d-633aebc2910a" width="45%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/da3f9cff-c7f4-4e3a-baf1-41698b35c137" width="45%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/2efa0dc2-102c-44c3-b819-68816e63ad48" width="45%" />
+    </p>
+    <br>
+</div>
 
 
-<tr>
-    <th colspan="2">게시글 상세 보기 + 댓글 페이지 </th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    게시글 상세 보기 + 댓글(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    게시글 상세 보기 + 댓글(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8-%EB%B3%B4%EA%B8%B0--%EB%8C%93%EA%B8%80"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%83%81%EC%84%B8%EB%8C%93%EA%B8%80_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8-%EB%B3%B4%EA%B8%B0--%EB%8C%93%EA%B8%80"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%83%81%EC%84%B8%EB%8C%93%EA%B8%80_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-<tr>
-    <th colspan="2">게시글 업로드 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    게시글 업로드(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    게시글 업로드(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%97%85%EB%A1%9C%EB%93%9C"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9E%91%EC%84%B1_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%97%85%EB%A1%9C%EB%93%9C"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9E%91%EC%84%B1_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-<tr>
-    <th colspan="2">상품 업로드 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    상품 업로드(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    상품 업로드(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EC%83%81%ED%92%88-%EC%97%85%EB%A1%9C%EB%93%9C"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%EC%83%81%ED%92%88%EC%97%85%EB%A1%9C%EB%93%9C_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EC%83%81%ED%92%88-%EC%97%85%EB%A1%9C%EB%93%9C"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%EC%83%81%ED%92%88%EC%97%85%EB%A1%9C%EB%93%9C_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-<tr>
-    <th colspan="2">검색 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    검색(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    검색(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EA%B2%80%EC%83%89"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%EA%B2%80%EC%83%89_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EA%B2%80%EC%83%89"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%EA%B2%80%EC%83%89_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-
-<tr>
-    <th colspan="2">프로필 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    프로필(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    프로필(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%ED%94%84%EB%A1%9C%ED%95%84"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%ED%94%84%EB%A1%9C%ED%95%84_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%ED%94%84%EB%A1%9C%ED%95%84"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%ED%94%84%EB%A1%9C%ED%95%84_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-<tr>
-    <th colspan="2">프로필 수정 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    프로필 수정(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    프로필 수정(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%ED%94%84%EB%A1%9C%ED%95%84-%EC%88%98%EC%A0%95"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%ED%94%84%EB%A1%9C%ED%95%84%EC%88%98%EC%A0%95_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%ED%94%84%EB%A1%9C%ED%95%84-%EC%88%98%EC%A0%95"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%ED%94%84%EB%A1%9C%ED%95%84%EC%88%98%EC%A0%95_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-<tr>
-    <th colspan="2">로그아웃 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    로그아웃(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    로그아웃(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-<tr>
-    <th colspan="2">채팅 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    채팅(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    채팅(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EC%B1%84%ED%8C%85"><img src="https://github.com/nailedReact/react-app/blob/main/preview/%EC%B1%84%ED%8C%85_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#%EC%B1%84%ED%8C%85"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/%EC%B1%84%ED%8C%85_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-<tr>
-    <th colspan="2">404 페이지</th>
-</tr>
-
-<tr align="center">
-    <td valign="top" width="66%">
-    404(데스크탑 🖥️)
-    </td>
-    <td valign="top" width="33%">
-    404(모바일 📱)
-    </td>
-</tr>
-
-<tr>
-    <td valign="top" width="75%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#404"><img src="https://github.com/nailedReact/react-app/blob/main/preview/404_%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-min.gif"/></a>
-    </td>
-    <td valign="top" width="25%">
-    <a href="https://github.com/nailedReact/react-app/wiki/%EB%B3%B5%EA%B7%BC%EA%B3%B0%EB%A7%88%EC%BC%93-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%A4%EB%AA%85#404"><img width="220px" src="https://github.com/nailedReact/react-app/blob/main/preview/404_%EB%AA%A8%EB%B0%94%EC%9D%BC-min.gif"/></a>
-    </td>
-</tr>
-
-</table>
-
-<br>
 
 ## 로컬 환경에서 프로젝트 구동 - 백엔드
 
