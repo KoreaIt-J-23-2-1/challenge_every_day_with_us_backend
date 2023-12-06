@@ -23,6 +23,8 @@ public interface ChallengeMapper {
     public int challengeDelete(int challengeId);
     public int getChallengeStatus(int challengeId, int userId);
     public int getChallengeAtmospher(int challengeId, int userId);
+    public int getChallengeRejected(int challengeId, int userId);
+
     public int challengeApplicable(int challengeId, int userId);
     public List<ChallengeApplication> getChallengersByChallengeId(int challengeId);
     public int deleteChallenger(int challengeId, int userId);

@@ -120,6 +120,11 @@ public class ChallengeService {
         return challengeMapper.getChallengeAtmospher(challengeId, userId) > 0;
     }
 
+    public boolean getChallengeRejected(int challengeId){
+        int userId = getUserId();
+        return challengeMapper.getChallengeRejected(challengeId, userId) > 0;
+    }
+
     @Transactional(rollbackFor = Exception.class)
     public boolean challengeApplicable(int challengeId){
         int userId = getUserId();
