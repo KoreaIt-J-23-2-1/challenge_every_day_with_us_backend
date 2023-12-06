@@ -217,23 +217,18 @@ gantt
 ## 🔀 브랜치 전략
 
 ### 👍 GitHub Flow 전략
-<img style="margin: 10px" src="./preview/git branch history min.png" alt="디스코드 깃허브 알람"/>
 
-- 개발과 동시에 지속적으로 배포를 진행할 것이 아니라, 기능을 모두 개발하고 최종적으로 배포를 할 예정이었기 때문에 Git Flow 전략보다는 GitHub Flow 전략이 적합하다고 생각했습니다.
+- 개발과 동시에 지속적으로 배포를 진행할 것이 아니라, 기능을 모두 개발하고 최종적으로 배포를 할 예정이었기 때문에 Git flow에 비해 흐름이 단순해짐에 따라 그 규칙도 단순한 GitHub Flow 전략이 적합하다고 생각했습니다.
 - 프로젝트 기간 동안 팀원들이 같은 시간에 작업하기 때문에 잦은 충돌이 발생할 것을 우려하여 충돌의 크기를 줄이고자 GitHub Flow 전략을 채택하여 작은 단위로 이슈를 쪼개 이슈 별로 브랜치를 분기하고 main 브랜치에 지속적으로 merge 하는 방식으로 진행했습니다.
+- 기본적으로 master branch에 대한 규칙만 정확하게 정립되어 있다면 나머지 가지들에 대해서는 특별한 관여를 하지 않으며 pull request기능을 사용하도록 권장하였습니다.
 
 <br>
 
 ### 🚀 GitHub Action - 브랜치 생성 자동화
 
-<img style="margin: 10px" width=80% src="./preview/create branch.png" alt="깃허브 프로젝트 캡쳐"/>
-
-- [Create Issue Branch](https://github.com/marketplace/actions/create-issue-branch)
 - 이슈를 생성하면 GitHub Action으로 해당 이슈에 해당하는 브랜치가 자동으로 생성되도록 설정하여 브랜치명을 고민하고 브랜치를 생성하는 시간을 줄였습니다.
-    - [브랜치 자동화 설정 상세 내용]([https://github.com/nailedReact/react-app/wiki/%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%9E%90%EB%8F%99%ED%99%94-%EC%84%A4%EC%A0%95-%EB%82%B4%EC%9A%A9](https://github.com/nailedReact/bokgungom-market/wiki/%F0%9F%AA%84-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%9E%90%EB%8F%99%ED%99%94-%EC%84%A4%EC%A0%95-%EB%82%B4%EC%9A%A9))
-    
-- 예) 자동 생성된 브랜치를 pull 하고 ```git checkout -t origin/feat/issue-81```하여 해당 브랜치로 이동합니다.
-- [브랜치 history](https://github.com/nailedReact/react-app/blob/main/preview/git%20branch%20history.png)
+- 예) 자동 생성된 브랜치를 pull 하고 ```git fetch ```한뒤 ```git checkout fix디자인수정-#389```하여 해당 브랜치로 이동합니다.
+- [브랜치 history] <a href="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/7a96c045-72b9-4672-8e52-19d32c609556">백앤드 브랜치 히스토리</a>
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
 <br>
