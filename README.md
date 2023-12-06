@@ -402,10 +402,20 @@ gantt
 
 <div align="center">
     <div>
+        <b>피드 정렬순</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/9cebb5b3-9f94-4ad3-ba81-24671eca57f3" width="60%" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
         <b>피드 좋아요</b>
     </div>
     <p align="center">
-        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/70277895-34bb-4c0d-a6de-443c041d81f6" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/7b884c2d-e513-4247-8699-80c42b0de331" width="60%" />
     </p>
     <br>
 </div>
@@ -415,7 +425,7 @@ gantt
         <b>피드 수정삭제</b>
     </div>
     <p align="center">
-        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/f3420c23-1c9a-427d-a19f-4410bc27a144" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/79422dea-29be-4692-8420-8064ba01337e" width="60%" />
     </p>
     <br>
 </div>
@@ -425,17 +435,30 @@ gantt
         <b>피드 신고</b>
     </div>
     <p align="center">
-        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/734047b2-9eba-47d6-99b4-823bbc52eee2" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/7b1976e5-5b19-4da5-a5eb-3a26d4fd73c1" width="60%" />
     </p>
     <br>
 </div>
 
 <div align="center">
     <div>
-        <b>피드 댓글작성&수정삭제&접기더보기</b>
+        <b>피드 댓글</b>
     </div>
     <p align="center">
-        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/5ad3a9f8-10d9-4cbb-a638-7e30fcc2eec3" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/34512ed7-cf1e-4307-a9b6-f22a7a75b5d8" width="30%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/4a492629-5916-47fe-b08e-1e541b567aa5" width="30%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/759a08f2-08a2-498e-a7ce-d30ca66f9ff6" width="30%" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>공지 작성&취소</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/1edb2632-40c8-4eec-8f56-0b8ca9b7eb24" width="50%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/d8d5f3eb-08cc-4845-96a5-d942eed8a73d" width="50%" />
     </p>
     <br>
 </div>
