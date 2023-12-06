@@ -1,4 +1,3 @@
-![007공지알림](https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/93970980/bc915eab-d712-4de4-badd-868baa9ad683)# challenge_with_us
 
 [🔗 Challenge_With_Us 바로가기](https://bokgungom-market.vercel.app/)
 
