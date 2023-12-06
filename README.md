@@ -166,9 +166,28 @@ gantt
 |spring-boot-starter-validation | 입력 값 검증을 위해 사용 |
 |spring-boot-devtools | 빠른 재시작을 위해 사용 |
 
-
-
-
+### ⛓️ node modules
+|모듈명|용도|
+|-|-|
+|react-router-dom / react-dom / router|페이지 라우팅을 위해 사용|
+|axios|서버와 통신을 위해 사용|
+|styled-reset| 스타일 구현의 편의를 위해 사용 |
+|browser-image-compression| 업로딩 이미지 압축을 위해 사용 |
+|moment|시간 표기를 위해 사용 |
+|@emotion/react / @emotion/styled| 쉬운 css 적용을 위해 사용 |
+|@ramonak/react-progress-bar / @tomickigrzegorz/react-circular-progress-bar / rc-progress| 프로그래스 바 구현을 위해 사용 |
+|@types/react-modal / react-modal| 모달을 구현하기 위해 사용 |
+|browser-image-compression| 자동으로 이미지 사이즈를 압축해주기 위해 사용 |
+|firebase| 이미지 업로드를 위해 사용 |
+|react / react-scripts| 리액트를 적용하기 위해 사용 |
+|react-calendar| 달력을 쉽게 구현하기 위해 사용 |
+|react-icons| 리액트 아이콘을 적용하기 위해 사용 |
+|sweetalert / sweetalert2|알림창 구현을 위해 사용 |
+|react-query| 데이터 Fetching, Caching, 동기화, 서버 데이터 업데이트 등을 쉽게 하기 위해 사용 |
+|recoil|전역 상태 관리를 위해 사용 |
+|react-quill| 텍스트 에디터를 적용하기 위해 사용 |
+|react-select| select 요소를 쉽게 쓰기 위해 사용 |
+|web-vitals| 사용자의 웹 바이탈 측정항목을 측정하기 위해 사용 |
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
 <br>
