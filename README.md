@@ -1,4 +1,4 @@
-
+![12헤더아이콘](https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/0c895ec9-f805-4759-99b7-6f27018e13c4)![005관리자메인페이지](https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/a7099658-3305-45f4-8176-8ca1612dd61e)![005관리자메인페이지](https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/69e0b77a-4d8e-4401-a01c-662cf3c49574)![005관리자메인페이지](https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/a05cee44-d9c7-409d-8fd6-b301587fef34)
 [🔗 Challenge_With_Us 바로가기](https://bokgungom-market.vercel.app/)
 
 ## 💪 프로젝트 소개
@@ -339,6 +339,17 @@ gantt
 
 <div align="center">
     <div>
+        <b>시작화면</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/5ae66b92-7d0c-41a1-9fe5-31abae9e1495" width="30%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/e19dcc3d-a1af-4ccf-b40a-101803e31c4c" width="30%" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
         <b>회원가입</b>
     </div>
     <p align="center">
@@ -365,6 +376,107 @@ gantt
     </div>
     <p align="center">
         <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/129514217/2e8e2200-9b7a-4d92-9240-277dab2a53d2" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>비로그인</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/343fa8d7-ad6a-44f7-a00d-73242ce93361" width="30%" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/df6bded1-d3ae-492e-88bc-0d428dafbf89" width="30%" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>관리자 메인페이지</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/bce309b8-502a-452e-befc-251bc831f5cf" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>가장 인기있는 챌린지</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/30cf3cab-e5bf-475e-a4aa-099b343c2d74" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>가장 인기있는 피드</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/51a1315a-ed91-4393-99d3-3b7e81cd2e50" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>참여중인 챌린지 리스트</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/95d413d9-0ed2-43ac-b3ad-2a4a8fbb46d2" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>챌린지 생성 및 챌린지 리스트</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/f4388741-0504-4e96-a009-6602c6d264b8" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>도장판</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/40490fd8-9f1e-4481-81b8-534e038afffd" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>상단로고</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/078b43fa-ff46-4605-8400-c394ae448665" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>헤더아이콘</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/80fa2df7-ba43-4e41-a000-a88fc28888bd" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>메인 페이지 내 소개칸</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/f4b68268-e7b8-4390-bac5-a35e4821f801" />
     </p>
     <br>
 </div>
