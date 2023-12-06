@@ -12,7 +12,7 @@
 
 <br>
 
-## 💪 프로젝트 개발 기간 -> ppt 내용으로 수정 예정
+## 💪 프로젝트 개발 기간
 
 ```mermaid
 gantt
@@ -27,11 +27,11 @@ gantt
 
 ## 🫂 팀 소개 -> 로고로 변경할 예정
 
-<img src="https://github.com/nailedReact/bokgungom-market/blob/main/preview/15.gif" width="40%"/>
+<img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/bee42c18-a309-4307-88c2-ccb32e490b6c" width="40%"/>
 
 |<span style="font-size:16px">🤖 박지영 (팀장)</span>|<span style="font-size:16px">🔥 정혜성</span>|<span style="font-size:16px">🏅 김영훈</span>|<span style="font-size:16px">🦁 문근해</span>|
 |:-:|:-:|:-:|:-:|
-|<a href="https://github.com/sasha1107"><img src="https://avatars.githubusercontent.com/sasha1107" height=150 width=150></a>|<a href="https://github.com/SEMINSEMINSEMIN"><img src="https://avatars.githubusercontent.com/SEMINSEMINSEMIN" height=150 width=150></a>|<a href="https://github.com/sjkymy"><img src="https://avatars.githubusercontent.com/sjkymy" height=150 width=150></a>|<a href="https://github.com/hyejee0504"><img src="https://avatars.githubusercontent.com/hyejee0504" height=150 width=150></a>|
+|<a href="https://github.com/gzero1016"><img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/886ccf3b-514b-48c8-b93e-a9dbcec62075" height=150 width=150></a>|<a href="https://github.com/comet7406"><img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/289ab043-6bd8-43ec-ab5a-de24cbe1e9ba" height=150 width=150></a>|<a href="https://github.com/younghk37"><img src="https://avatars.githubusercontent.com/sjkymy" height=150 width=150></a>|<a href="https://github.com/hyejee0504"><img src="https://avatars.githubusercontent.com/hyejee0504" height=150 width=150></a>|
 
 - 코리아IT 부산 23-2기 프로젝트 1조 `강아지와 호랑이 세마리`입니다.
 - 호랑이 띠 셋과 개띠 하나라는 조합이 개성있어 보여 다음과 같은 팀명을 짓게 되었습니다.
@@ -44,38 +44,69 @@ gantt
 
 ### 🤖 박지영
 
-- 스플래시 페이지
-- 회원가입 페이지
-- 프로필 페이지
-- 반응형 디자인 구현
-- 토스트 메시지 구현
-- 로딩중 & 404 페이지
-- 게시글 상세 페이지 댓글 더보기 기능 구현
-- 로그인 유효성 검사
-- 디자인 총괄
+- 참여중인 ChallengeList 조회
+- 참여한 Challenge 개수 조회
+- 자기소개 CRUD
+- 포인트 충전
+- Challenge개설
+- Challenge 삭제
+- 나의 챌린지 참가 여부 조회
+- Challenge 신청 대기조회
+- Challenge 참가 신청
+- Challenge 신청시 승인 및 거절
+- Challenge 승인 알림 전송
+- Challenge별 Feed 등록
+- Challenge Feed 조회
+- ChallengeDetails 조회
+- Feed 인기순 정렬
+- Feed 신고
+- 관리자 페이지 Challenge 종료 및 삭제
+- 관리자 페이지 총 챌린지수
+- 총 회원수
+- 총 피드수
+- 총 종료된챌린지수
+- 총 삭제된 챌린지수 통계
+- 나의 종료된 ChallengeList 조회
+- ChallengeFeed 조회
+- Admin계정 정보 조회
+- ChallengeFeed 개수조회
+- 챌린지 개설자와 Feed 작성자 포인트 적립
+- 가장인기있는 피드 조회
 
 ### 🔥 정혜성
 - 게시글 상세보기 + 댓글 페이지
-- 게시글 수정 페이지
-- 프로필 페이지
-- 프로필 수정 페이지
-- 채팅 페이지
+- 프로필 정보 수정
+- 회원탈퇴
+- ChallengeList 조회
+- Challenge 조회
+- Challenge 좋아요및 취소
+- Challenger 조회 및 삭제
+- ChallengeDetails 조회
+- Feed 수정 및 삭제
+- 출석체크
 
 ### 🏅 김영훈
 
-- 로그인 페이지
-- 게시글 업로드 페이지
-- 상품 업로드 페이지
+- 시큐리티
+- 로그인 및 회원가입
+- ChallengeDetails Feed 좋아요 및 취소
+- Feed 좋아요 및 취소
+- 피드 최신 댓글 1개 조회
+- 피드 댓글 CRUD
+- 상점 물품 조회
+- 상점 물품 구매 목록 조회
+- 상점 물품 구매
+- 알림 리스트 및 개수 조회
+- 읽지않은 알림 개수 및 리스트 조회
+- 알림 읽음 상태변경
+- 가장 인기있는 챌린지 조회
 
 ### 🦁 문근해
 
-- 팔로잉 팔로우 리스트 구현
-- 프로필 페이지 
-- 홈피드 페이지
-- 검색 페이지
-- 홈피드에서 페이지네이션 구현
-- 프로필 내 피드에서 무한 스크롤 구현
-- top 버튼 구현
+- 공지 CRUD
+- 알림기능
+- ChallengeDetails
+- 세부 기능 및 디자인
 
 ### 공통 작업
 - 공통 컴포넌트
@@ -90,7 +121,6 @@ gantt
   <th colspan="2" style="text-align:center;"><span style="font-size:16px;">프론트엔드</span></th>
   <th style="text-align:center;"><span style="font-size:16px">백엔드</span></th>
   <th style="text-align:center;"><span style="font-size:16px">배포</span></th>
-  <th colspan="2" style="text-align:center;"><span style="font-size:16px;">디자인</span></th>
 </tr>
 </thead>
 <tbody>
@@ -111,19 +141,9 @@ gantt
     <br>
     <code>Spring Boot</code></td>
   <td align="center" style="text-align:center;">
-    <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1679312641/noticon/rx8rni4npifrbo9ckxmt.png" alt="Styled Components" height="50" /></a>
+    <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/18faf294-a389-4809-b69d-40853850a6f1" alt="Styled Components" height="50" /></a>
     <br>
-    <code>Vercel</code>
-  </td>
-  <td align="center" style="text-align:center; margin: 0 auto;">
-    <a href="https://www.adobe.com/kr/products/photoshop/landpa.html?gclid=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB&sdid=TBJRLR9V&mv=search&ef_id=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB:G:s&s_kwcid=AL!3085!3!460585117877!e!!g!!photoshop!97967719!4837432399" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602172134/noticon/owhrsm7fwznd39eli3d6.png" alt="Adobe Photoshop" height="50" /></a>
-    <br>
-    <code>Adobe Photoshop</code>
-  </td>
-  <td align="center" style="text-align:center; margin: 0 auto;">
-    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640982247/noticon/tpvr26zp02angin4t0jv.png" alt="Styled Components" height="50" /></a>
-    <br>
-    <code>Figma</code>
+    <code>Ec2</code>
   </td>
 </tr>
 </tbody>
@@ -638,7 +658,7 @@ gantt
 
 <br>
 
-## 로컬 환경에서 프로젝트 구동
+## 로컬 환경에서 프로젝트 구동 - 백엔드
 
 - 레포지토리 클론
 ```
@@ -655,6 +675,25 @@ cd my-app
 - 백그라운드에서 실행
 ```
 nohup java -jar ~.jar &
+```
+
+## 로컬 환경에서 프로젝트 구동 - 프론트
+
+- 레포지토리 클론
+```
+git clone https://github.com/KoreaIt-J-23-2-1/challenge_with_us_frontend
+```
+- 프로젝트 소스 코드 폴더로 이동
+```
+cd my-app
+```
+- 필요한 모듈 설치
+```
+npm install
+```
+- 로컬 환경에서 리액트 앱을 실행
+```
+npm start
 ```
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
