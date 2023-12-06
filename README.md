@@ -399,6 +399,18 @@ gantt
 
 <div align="center">
     <div>
+        <b>챌린지목록</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/93970980/48455d71-0320-4729-bb1f-d9693ce97ad3" />
+    </p>
+    <br>
+</div>
+
+
+
+<div align="center">
+    <div>
         <b>피드 정렬순</b>
     </div>
     <p align="center">
