@@ -227,7 +227,7 @@ gantt
 ### 🚀 GitHub Action - 브랜치 생성 자동화
 
 - 이슈를 생성하면 GitHub Action으로 해당 이슈에 해당하는 브랜치가 자동으로 생성되도록 설정하여 브랜치명을 고민하고 브랜치를 생성하는 시간을 줄였습니다.
-- 예) 자동 생성된 브랜치를 pull 하고 ```git fetch ```한뒤 ```git checkout fix디자인수정-#389```하여 해당 브랜치로 이동합니다.
+- 예) 자동 생성된 브랜치를 pull 하고 ```git fetch ```한뒤 ```git checkout feed좋아요중복방지-#242```하여 해당 브랜치로 이동합니다.
 - [브랜치 history] <a href="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/7a96c045-72b9-4672-8e52-19d32c609556">백앤드 브랜치 히스토리</a>
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
