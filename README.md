@@ -12,7 +12,7 @@
 
 <br>
 
-## 💪 프로젝트 개발 기간 -> ppt 내용으로 수정 예정
+## 💪 프로젝트 개발 기간
 
 ```mermaid
 gantt
@@ -31,7 +31,7 @@ gantt
 
 |<span style="font-size:16px">🤖 박지영 (팀장)</span>|<span style="font-size:16px">🔥 정혜성</span>|<span style="font-size:16px">🏅 김영훈</span>|<span style="font-size:16px">🦁 문근해</span>|
 |:-:|:-:|:-:|:-:|
-|<a href="https://github.com/sasha1107"><img src="https://avatars.githubusercontent.com/sasha1107" height=150 width=150></a>|<a href="https://github.com/SEMINSEMINSEMIN"><img src="https://avatars.githubusercontent.com/SEMINSEMINSEMIN" height=150 width=150></a>|<a href="https://github.com/sjkymy"><img src="https://avatars.githubusercontent.com/sjkymy" height=150 width=150></a>|<a href="https://github.com/hyejee0504"><img src="https://avatars.githubusercontent.com/hyejee0504" height=150 width=150></a>|
+|<a href="https://github.com/gzero1016"><img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/886ccf3b-514b-48c8-b93e-a9dbcec62075" height=150 width=150></a>|<a href="https://github.com/comet7406"><img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/289ab043-6bd8-43ec-ab5a-de24cbe1e9ba" height=150 width=150></a>|<a href="https://github.com/younghk37"><img src="https://avatars.githubusercontent.com/sjkymy" height=150 width=150></a>|<a href="https://github.com/hyejee0504"><img src="https://avatars.githubusercontent.com/hyejee0504" height=150 width=150></a>|
 
 - 코리아IT 부산 23-2기 프로젝트 1조 `강아지와 호랑이 세마리`입니다.
 - 호랑이 띠 셋과 개띠 하나라는 조합이 개성있어 보여 다음과 같은 팀명을 짓게 되었습니다.
@@ -40,7 +40,8 @@ gantt
 <br>
 
 
-## 🙋‍♀️ 역할 분담 -> ppt 내용으로 수정 예정
+## 🙋‍♀️ 역할 분담
+### [🔗 API 명세서 바로가기](https://www.notion.so/API-0ad3a65629fd4c3783d37cb6536dc906)
 
 ### 🤖 박지영
 
@@ -121,7 +122,6 @@ gantt
   <th colspan="2" style="text-align:center;"><span style="font-size:16px;">프론트엔드</span></th>
   <th style="text-align:center;"><span style="font-size:16px">백엔드</span></th>
   <th style="text-align:center;"><span style="font-size:16px">배포</span></th>
-  <th colspan="2" style="text-align:center;"><span style="font-size:16px;">디자인</span></th>
 </tr>
 </thead>
 <tbody>
@@ -145,16 +145,6 @@ gantt
     <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/18faf294-a389-4809-b69d-40853850a6f1" alt="Styled Components" height="50" /></a>
     <br>
     <code>Ec2</code>
-  </td>
-  <td align="center" style="text-align:center; margin: 0 auto;">
-    <a href="https://www.adobe.com/kr/products/photoshop/landpa.html?gclid=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB&sdid=TBJRLR9V&mv=search&ef_id=Cj0KCQiA5NSdBhDfARIsALzs2EDDufpNAEYRcvM4knMcv6wZDXh2ZI8-4n74LBIJefRgHhmJ1PH_i6IaAtcUEALw_wcB:G:s&s_kwcid=AL!3085!3!460585117877!e!!g!!photoshop!97967719!4837432399" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602172134/noticon/owhrsm7fwznd39eli3d6.png" alt="Adobe Photoshop" height="50" /></a>
-    <br>
-    <code>Adobe Photoshop</code>
-  </td>
-  <td align="center" style="text-align:center; margin: 0 auto;">
-    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640982247/noticon/tpvr26zp02angin4t0jv.png" alt="Styled Components" height="50" /></a>
-    <br>
-    <code>Figma</code>
   </td>
 </tr>
 </tbody>
@@ -690,5 +680,21 @@ nohup java -jar ~.jar &
 
 ## 로컬 환경에서 프로젝트 구동 - 프론트
 
+- 레포지토리 클론
+```
+git clone https://github.com/KoreaIt-J-23-2-1/challenge_with_us_frontend
+```
+- 프로젝트 소스 코드 폴더로 이동
+```
+cd my-app
+```
+- 필요한 모듈 설치
+```
+npm install
+```
+- 로컬 환경에서 리액트 앱을 실행
+```
+npm start
+```
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
