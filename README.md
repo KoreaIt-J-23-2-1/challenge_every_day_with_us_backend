@@ -116,40 +116,26 @@ gantt
 
 ## ⚙️ 개발 환경
 
-<table>
-<thead align="center">
-<tr>
-  <th colspan="2" style="text-align:center;"><span style="font-size:16px;">프론트엔드</span></th>
-  <th style="text-align:center;"><span style="font-size:16px">백엔드</span></th>
-  <th style="text-align:center;"><span style="font-size:16px">배포</span></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td align="center" style="text-align:center;">
-    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1579667701/noticon/basd2y5bygpkqjiixuqy.png" alt="React" height="50" /></a>
-    <br>
-    <code>React</code>
-  </td>
-  <td align="center" style="text-align:center; margin: 0 auto;">
-    <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
-    <br>
-    <code>styled-components</code>
-  </td>
-
-
-  <td align="center" style="text-align:center;"><a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/11cf56d6-3703-47e2-8e15-4933d42de011" alt="Spring Boot" height="50" /></a>
-    <br>
-    <code>Spring Boot</code></td>
-  <td align="center" style="text-align:center;">
-    <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/18faf294-a389-4809-b69d-40853850a6f1" alt="Styled Components" height="50" /></a>
-    <br>
-    <code>Ec2</code>
-  </td>
-</tr>
-</tbody>
-</table>
-<br>
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-false&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-false&logo=Spring Boot&logoColor=yellow">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-false&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-false&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Node.js&logoColor=0052CC"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-false&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-false&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-false&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+</div>
 
 ### ⛓️ pom.xml
 |모듈명|용도|
@@ -218,15 +204,12 @@ gantt
 
 ## 📊 프로젝트 진행 상황 관리
 
-- <a href="https://github.com/nailedReact/bokgungom-market/issues?q=is%3Aissue+is%3Aclosed" target="_blank">🔘 GitHub Issues</a>
+- <a href="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_frontend/issues?q=is%3Aissue+is%3Aclosed" target="_blank">🔘 GitHub Issues</a>
     - 간편한 이슈 생성을 위해 이슈 템플릿을 만들어 사용했습니다.
     - 이슈 템플릿으로 어떤 이슈인지, 어떤 페이지에 해당하는 지, 구현 해야 하는 내용이 무엇인지를 적도록 했습니다.
-    <img style="margin: 10px" width=80% src="./preview/issue example.png" alt="이슈 예시"/>
-
     - 팀원이 현재 어떤 작업을 진행하고 있는지를 바로 알 수 있어 의사소통 비용을 줄일 수 있었습니다. 
-- <a href="https://github.com/orgs/nailedReact/projects/1/views/1" target="_blank">🗂️ GitHub Projects</a>
+- <a href="https://github.com/orgs/KoreaIt-J-23-2-1/projects/2" target="_blank">🗂️ GitHub Projects</a>
     - 칸반 보드로 프로젝트 진행 상황을 한 눈에 확인할 수 있어 일정을 관리하기 수월했습니다.
-    <img style="margin: 10px" width=80% src="./preview/project.png" alt="깃허브 프로젝트 캡쳐"/>
 
 <p align="right"><a href="#top">TOP 🔼</a></p>
 <br>
