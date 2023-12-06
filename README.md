@@ -400,6 +400,46 @@ gantt
     <br>
 </div>
 
+<div align="center">
+    <div>
+        <b>피드 좋아요</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/70277895-34bb-4c0d-a6de-443c041d81f6" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>피드 수정삭제</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/f3420c23-1c9a-427d-a19f-4410bc27a144" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>피드 신고</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/734047b2-9eba-47d6-99b4-823bbc52eee2" />
+    </p>
+    <br>
+</div>
+
+<div align="center">
+    <div>
+        <b>피드 댓글작성&수정삭제&접기더보기</b>
+    </div>
+    <p align="center">
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/121538196/5ad3a9f8-10d9-4cbb-a638-7e30fcc2eec3" />
+    </p>
+    <br>
+</div>
+
 
 
 ## 로컬 환경에서 프로젝트 구동 - 백엔드
