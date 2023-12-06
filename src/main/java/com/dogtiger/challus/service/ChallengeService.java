@@ -157,6 +157,7 @@ public class ChallengeService {
     }
 
     public boolean challengeHidden(int challengeId) {
+        System.out.println(challengeId);
         return challengeMapper.challengeHidden(challengeId) > 0;
     }
 

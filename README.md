@@ -40,7 +40,8 @@ gantt
 <br>
 
 
-## 🙋‍♀️ 역할 분담 -> ppt 내용으로 수정 예정
+## 🙋‍♀️ 역할 분담
+### [🔗 API 명세서 바로가기](https://www.notion.so/API-0ad3a65629fd4c3783d37cb6536dc906)
 
 ### 🤖 박지영
 

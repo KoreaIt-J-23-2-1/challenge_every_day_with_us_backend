@@ -122,6 +122,7 @@ public class ChallengeController {
 
     @PutMapping("/api/challenge/hidden/{challengeId}")
     public ResponseEntity<?> challengeHidden(@PathVariable int challengeId) {
+        System.out.println(challengeId);
         return ResponseEntity.ok(challengeService.challengeHidden(challengeId));
     }
 
