@@ -398,12 +398,12 @@ gantt
 
 <div align="center">
     <div>
-        <b>챌린지목록</b>
+        <div><b>챌린지목록</b></div>
         <b>비로그인 시점 & 로그인 시점</b>
     </div>
     <p align="center">
-        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/93970980/48455d71-0320-4729-bb1f-d9693ce97ad3" width="47%"  />
         <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/93970980/3ea6e7a8-572e-4c4a-9758-21164265567a" width="47%" />
+        <img src="" width="47%"  />
     </p>
     <br>
 </div>
