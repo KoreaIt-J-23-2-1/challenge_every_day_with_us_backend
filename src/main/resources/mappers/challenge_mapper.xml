@@ -305,6 +305,17 @@
         and accept_state = 0
     </select>
 
+    <select id="getChallengeRejected" resultType="java.lang.Integer">
+        select
+        count(*)
+        from
+        challenge_application_tb
+        where
+        challenge_id = #{challengeId}
+        and user_id = #{userId}
+        and accept_state = 2
+    </select>
+
     <select id="getChallengersByChallengeId" resultMap="challengeApplicationMap">
         select distinct
             cat.user_id,

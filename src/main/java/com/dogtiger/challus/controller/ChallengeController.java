@@ -88,6 +88,11 @@ public class ChallengeController {
         return ResponseEntity.ok(challengeService.getChallengeAtmospher(challengeId));
     }
 
+    @GetMapping("/api/challenge/rejected/{challengeId}")
+    public ResponseEntity<?> getChallengeRejected(@PathVariable int challengeId) {
+        return ResponseEntity.ok(challengeService.getChallengeRejected(challengeId));
+    }
+
     @PostMapping("/api/challenge/join/{challengeId}")
     public ResponseEntity<?> challengeApplicable(@PathVariable int challengeId) {
         return ResponseEntity.ok(challengeService.challengeApplicable(challengeId));
