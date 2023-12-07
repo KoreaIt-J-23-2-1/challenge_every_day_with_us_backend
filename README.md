@@ -342,8 +342,8 @@ gantt
         <b>시작화면</b>
     </div>
     <p align="center">
-        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/5ae66b92-7d0c-41a1-9fe5-31abae9e1495"/>
-        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/e19dcc3d-a1af-4ccf-b40a-101803e31c4c" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/5ae66b92-7d0c-41a1-9fe5-31abae9e1495" width="47%"/>
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/e19dcc3d-a1af-4ccf-b40a-101803e31c4c" width="47%" />
     </p>
     <br>
 </div>
@@ -454,27 +454,19 @@ gantt
 
 <div align="center">
     <div>
-        <b>상단로고 기능</b>
+        <b>상단로고 & 아이콘 기능</b>
     </div>
     <p align="center">
-        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/078b43fa-ff46-4605-8400-c394ae448665" />
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/078b43fa-ff46-4605-8400-c394ae448665" width="46%"/>
+        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/80fa2df7-ba43-4e41-a000-a88fc28888bd" width="46%"/>
+
     </p>
     <br>
 </div>
 
 <div align="center">
     <div>
-        <b>헤더 아이콘 기능</b>
-    </div>
-    <p align="center">
-        <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/80fa2df7-ba43-4e41-a000-a88fc28888bd" />
-    </p>
-    <br>
-</div>
-
-<div align="center">
-    <div>
-        <b>메인 페이지 내 소개칸</b>
+        <b>메인 페이지 MYINFO</b>
     </div>
     <p align="center">
         <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/f4b68268-e7b8-4390-bac5-a35e4821f801" />
