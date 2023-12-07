@@ -382,7 +382,7 @@ gantt
 
 <div align="center">
     <div>
-        <b>비로그인</b>
+        <b>비로그인 시점 메인페이지</b>
     </div>
     <p align="center">
         <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/343fa8d7-ad6a-44f7-a00d-73242ce93361" width="30%" />
@@ -393,7 +393,7 @@ gantt
 
 <div align="center">
     <div>
-        <b>관리자 메인페이지</b>
+        <b>관리자 시점 메인페이지</b>
     </div>
     <p align="center">
         <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/bce309b8-502a-452e-befc-251bc831f5cf" />
@@ -403,6 +403,7 @@ gantt
 
 <div align="center">
     <div>
+        <div><b>로그인 시점 메인페이지</b></div>
         <b>가장 인기있는 챌린지</b>
     </div>
     <p align="center">
@@ -443,7 +444,7 @@ gantt
 
 <div align="center">
     <div>
-        <b>도장판</b>
+        <b>미니 출석체크 & 실시간 반영</b>
     </div>
     <p align="center">
         <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/40490fd8-9f1e-4481-81b8-534e038afffd" />
@@ -453,7 +454,7 @@ gantt
 
 <div align="center">
     <div>
-        <b>상단로고</b>
+        <b>상단로고 기능</b>
     </div>
     <p align="center">
         <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/078b43fa-ff46-4605-8400-c394ae448665" />
@@ -463,7 +464,7 @@ gantt
 
 <div align="center">
     <div>
-        <b>헤더아이콘</b>
+        <b>헤더 아이콘 기능</b>
     </div>
     <p align="center">
         <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/137988363/80fa2df7-ba43-4e41-a000-a88fc28888bd" />
@@ -553,7 +554,7 @@ gantt
 
 <div align="center">
     <div>
-        <b>004챌린지 디테일 피드 좋아요</b>
+        <b>챌린지 디테일 피드 좋아요</b>
     </div>
     <p align="center">
         <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/93970980/fd1c5fba-0ecc-4d7b-9e9a-8ea4fe49d84b" />
@@ -575,7 +576,7 @@ gantt
 
 <div align="center">
     <div>
-        <b>0챌린지 디테일 피드 수정 & 삭제</b>
+        <b>피드 수정 & 삭제</b>
     </div>
     <p align="center">
         <img src="https://github.com/KoreaIt-J-23-2-1/challenge_with_us_backend/assets/93970980/93a954ab-fa3c-4cab-88fa-162166c5495b" width="47%" />
