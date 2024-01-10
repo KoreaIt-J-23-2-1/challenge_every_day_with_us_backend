@@ -50,7 +50,7 @@ public class AuthService {
                 .title("새로운 도전자여 환영한다")
                 .content("챌어스 이용 방법을 필독해주세요")
                 .letterType(8)
-                .targetUrl("http://localhost:3000/notice/3")
+                .targetUrl("http://challenge-with-us.s3-website.ap-northeast-2.amazonaws.com/notice/3")
                 .targetId(3)
                 .build());
 

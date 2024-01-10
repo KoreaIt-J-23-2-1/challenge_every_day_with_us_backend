@@ -99,7 +99,7 @@ public class FeedService {
                 .title("피드에 좋아요가 달렸습니다.")
                 .content(challenge.getChallengeName() + " 챌린지에 작성한 피드입니다.")
                 .letterType(5)
-                .targetUrl("http://localhost:3000/challenge/" + challenge.getChallengeId())
+                .targetUrl("http://challenge-with-us.s3-website.ap-northeast-2.amazonaws.com/challenge/" + challenge.getChallengeId())
                 .targetId(challenge.getChallengeId())
                 .build());
 
@@ -143,7 +143,7 @@ public class FeedService {
                 .title("피드에 댓글이 달렸습니다.")
                 .content(createCommentReqDto.getCommentContent())
                 .letterType(6)
-                .targetUrl("http://localhost:3000/challenge/" + challenge.getChallengeId())
+                .targetUrl("http://challenge-with-us.s3-website.ap-northeast-2.amazonaws.com/challenge/" + challenge.getChallengeId())
                 .targetId(challenge.getChallengeId())
                 .build());
     }

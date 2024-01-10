@@ -47,7 +47,7 @@ public class NoticeService {
                                 .title(notice.getNoticeTitle())
                                 .content(notice.getNoticeContent())
                                 .letterType(0)
-                                .targetUrl("http://localhost:3000/notice/" + notice.getNoticeId())
+                                .targetUrl("http://challenge-with-us.s3-website.ap-northeast-2.amazonaws.com/notice/" + notice.getNoticeId())
                                 .targetId(notice.getNoticeId())
                                 .build());
                     }
